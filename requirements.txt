@@ -4,3 +4,4 @@ tensorflow
 scikit-learn
 pandas
 numpy
+h5py
